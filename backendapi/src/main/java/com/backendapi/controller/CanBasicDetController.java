@@ -18,5 +18,6 @@ public class CanBasicDetController {
 //		if(canBasicDetService)
 
 		System.out.println("Sample demo");
+		// new line added by main but not in local
 	}
 }
