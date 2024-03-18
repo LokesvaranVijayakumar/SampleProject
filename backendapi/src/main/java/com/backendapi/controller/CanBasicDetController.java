@@ -13,7 +13,10 @@ public class CanBasicDetController {
 
 	private CanBasicDetService canBasicDetService;
 	
-	public ResponseEntity<String> addUser(@RequestBody CanBasicDet canBasicDet){
-		if(canBasicDetService)
+	public void addUser(@RequestBody CanBasicDet canBasicDet){
+
+//		if(canBasicDetService)
+
+		System.out.println("Sample demo");
 	}
 }
