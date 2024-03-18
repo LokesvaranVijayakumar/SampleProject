@@ -18,5 +18,7 @@ public class CanBasicDetController {
 //		if(canBasicDetService)
 
 		System.out.println("Sample demo");
+
+		System.out.println("Sample merge conflict demo");
 	}
 }
